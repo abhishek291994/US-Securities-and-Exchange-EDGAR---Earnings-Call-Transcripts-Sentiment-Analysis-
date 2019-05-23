@@ -1,4 +1,4 @@
-Report: https://github.com/Shravsridhar/INFO-7374-Assignment-3
+The Assignment3_Report.pdf is the Report for this Project/Assignment
 
 All data used are uploaded in repo.
 
